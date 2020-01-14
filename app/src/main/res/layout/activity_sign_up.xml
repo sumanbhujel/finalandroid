@@ -159,12 +159,12 @@
         android:id="@+id/buttonSignup"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/colorButton"
-        android:textColor="@color/colorWhite"
         android:layout_marginTop="24dp"
         android:layout_marginBottom="24dp"
+        android:background="@color/colorButton"
         android:padding="12dp"
-        android:text="Create Account" />
+        android:text="Create Account"
+        android:textColor="@color/colorWhite" />
 
     <TextView
         android:id="@+id/link_login"
