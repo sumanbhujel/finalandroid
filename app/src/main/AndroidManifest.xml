@@ -14,7 +14,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activities.EditDetailActivity"></activity>
+        <activity android:name=".activities.ProfileActivity"></activity>
+        <activity android:name=".activities.EditDetailActivity" />
         <activity android:name=".activities.HomeActivity" />
         <activity android:name=".activities.AddScrapActivity" />
         <activity android:name=".activities.DashboardActivity" />
