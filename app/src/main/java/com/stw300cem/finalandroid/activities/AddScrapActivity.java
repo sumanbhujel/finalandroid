@@ -21,7 +21,6 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.stw300cem.finalandroid.R;
-import com.stw300cem.finalandroid.api.ScrapAPI;
 import com.stw300cem.finalandroid.bll.ScrapBLL;
 import com.stw300cem.finalandroid.helper.StrictModeClass;
 import com.stw300cem.finalandroid.helper.Url;

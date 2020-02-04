@@ -1,6 +1,5 @@
 package com.stw300cem.finalandroid.bll;
 
-import com.stw300cem.finalandroid.api.ScrapAPI;
 import com.stw300cem.finalandroid.helper.Url;
 import com.stw300cem.finalandroid.models.Scrap;
 import com.stw300cem.finalandroid.response.ScrapResponse;

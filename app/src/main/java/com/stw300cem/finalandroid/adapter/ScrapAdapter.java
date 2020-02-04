@@ -18,7 +18,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.squareup.picasso.Picasso;
 import com.stw300cem.finalandroid.MainActivity;
 import com.stw300cem.finalandroid.R;
-import com.stw300cem.finalandroid.api.ScrapAPI;
 import com.stw300cem.finalandroid.helper.Url;
 import com.stw300cem.finalandroid.models.Scrap;
 
